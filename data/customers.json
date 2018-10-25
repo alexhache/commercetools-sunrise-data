@@ -59,7 +59,8 @@
         ],
         "isEmailVerified": true,
         "key": "myKey",
-        "dateOfBirth": "1974-09-20"
+        "dateOfBirth": "1974-09-20",
+        "companyName": "Chocolate Factory"
     },
     {
         "customerNumber": "3",
@@ -93,7 +94,7 @@
         "isEmailVerified": true,
         "key": "keithRichards",
         "dateOfBirth": "1943-12-18",
-        "companyName": "Rolling Stnones"
+        "companyName": "Rolling Stones"
     },
     {
         "customerNumber": "4",
@@ -108,7 +109,7 @@
         "isEmailVerified": true,
         "key": "ronnieWood",
         "dateOfBirth": "1947-06-01",
-        "companyName": "Rolling Stnones",
+        "companyName": "Rolling Stones",
         "lastMessageSequenceNumber": 1
     },
     {
